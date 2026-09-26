@@ -1,0 +1,4 @@
+laya==0.3.20
+jupyterlab
+ipykernel
+pandas
